@@ -24,3 +24,7 @@
 ## 푸터
 
 - footer.md 추가
+
+## SEARCH 개발
+
+- search.md 추가
