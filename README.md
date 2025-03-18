@@ -25,6 +25,8 @@
 
 - footer.md 추가
 
-## SIDEBAR 개발
+## SEARCH 개발
+
+- search.md 추가
 
 - sidebar.md 추가
